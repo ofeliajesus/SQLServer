@@ -1,0 +1,8 @@
+site_name: SQL Server
+nav:
+- Home: index.md
+- SQL_Commands:  SQL_Commands.md
+- Samples: 
+  - CTE_Rownumber:  CTE_Rownumber.md  
+- About: about.md
+theme: readthedocs
